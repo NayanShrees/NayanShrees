@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NayanShrees (Nayan Shrees)
 - 👀 I’m interested in AI/ML and Software Development.
-- 🌱 I’m currently learning C++, Rust. Python.
-- 👨‍💻 Currently Working as a Software Developmenet Engineer @ Amazon.
+- 🌱 I’m currently learning C++ and Rust.
+- 👨‍💻 Currently Working as a Software Developmenet Engineer @ Amazon using C++, TypeScript and Swift.
 
 <!---
 NayanShrees/NayanShrees is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
